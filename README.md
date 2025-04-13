@@ -52,8 +52,7 @@ src/
 
 ## 📸 Preview
 
-> (Tambahkan screenshot atau GIF preview project kamu di sini)
-
+> Maap Masi Dummy hehehe
 ## 📄 License
 
 MIT © 2025 Ramsy Parker
